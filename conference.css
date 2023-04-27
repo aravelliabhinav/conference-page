@@ -1,0 +1,90 @@
+
+.firstimg {
+    height: 50vh;
+    background-size: cover;
+}
+
+.back {
+    text-align: center;
+    padding: 1px;
+}
+
+.text-f {
+    color: #183b56;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+    font-family: "Roboto";
+}
+
+.text-s {
+    color: #5a7184;
+    font-family: "Roboto";
+    margin-left: 120px;
+    margin-right: 100px;
+}
+
+.but {
+    margin-left: 15px;
+
+}
+
+.text-f-f {
+    color: #183b56;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+    font-family: "Roboto";
+}
+
+.text-s-s {
+    color: #5a7184;
+    font-family: "Roboto";
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+.number-1 {
+    margin: 15px;
+    margin-left: 90px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.number-2 {
+    margin: 15px;
+    margin-left: 90px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.small-text-1 {
+    margin-left: 90px;
+    color: #5a7184;
+
+}
+
+.small-text-2 {
+    margin-left: 120px;
+    color: #5a7184;
+}
+
+.number-1-1 {
+    margin: 15px;
+    margin-left: 90px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.number-2-2 {
+    margin: 15px;
+    margin-left: 120px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.but-1 {
+    margin-left: 200px;
+}
